@@ -1,7 +1,5 @@
 # Glossary
 
-[Glossary](https://glossary-kurosame.firebaseapp.com)
-
 Deploy to Firebase Hosting is done on CircleCI
 
 ## Technology stack
@@ -19,7 +17,7 @@ Deploy to Firebase Hosting is done on CircleCI
 ## Usage(Local environment)
 
 ```sh
-git clone https://github.com/kurosame/glossary.git
+git clone https://github.com/rotem711/glossary.git
 npm install
 ```
 
